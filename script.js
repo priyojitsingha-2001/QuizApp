@@ -103,7 +103,7 @@ const questions = [
         answers: [
             { text: "Sahara Desert", correct: false },
             { text: "Gobi Desert", correct: false },
-            { text: "Antarctica", correct: true },
+            { text: "Antarctic polar desert", correct: true },
             { text: "Arabian Desert", correct: false },
         ]
     },
@@ -128,7 +128,7 @@ const questions = [
     {
         question: "Which continent is known as the 'Land of the Rising Sun'?",
         answers: [
-            { text: "Asia", correct: true },
+            { text: "Japan", correct: true },
             { text: "Africa", correct: false },
             { text: "Europe", correct: false },
             { text: "Australia", correct: false },
